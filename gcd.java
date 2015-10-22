@@ -1,7 +1,7 @@
 package algorithm;
 /**
- * @purpose 求解greatest common measure(最大公约数)
- * @author lixiang
+ * @description 求解greatest common measure(最大公约数)
+ * @author csucoderlee
  *
  */
 public class gcd {
